@@ -5,7 +5,7 @@ public class Main4{
         System.out.println("Hello, Do you like writing code in JAVA?");
         Scanner scanner = new Scanner(System.in);
         String Answer = scanner.nextLine();
-        if(Answer == "Yes"){
+        if(Answer == "yes"){
             System.out.println("Great!, Let's begin with it then...");
         }
         else{

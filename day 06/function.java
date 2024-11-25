@@ -14,6 +14,9 @@ public class function {
         int b = in.nextInt();
         int ans = sum3(a, b);
         System.out.println(ans);
+
+        String msg = hello();
+        System.out.println(msg);
     }
     
     // Return type int
@@ -38,6 +41,12 @@ public class function {
     static int sum3(int a, int b){
         int sum = a + b;
         return sum;
+    }
+
+    static String hello(){
+        System.out.println("Hello rohan");
+        String msg="ok";
+        return msg;
     }
     
 }
