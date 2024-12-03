@@ -38,7 +38,3 @@ public class CharInput{
 
     }
 }
-// System.out.print("Enter a character: ");
-//         char ch = in.next().charAt(0);
-//         System.out.println("You entered: " + ch);
-//          // Read the first character of the input System.out.println("You entered: " + ch);
