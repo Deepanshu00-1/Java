@@ -1,7 +1,7 @@
 
-
 public class Switches {
     public static void main(String[] args){
+    
         String day = "Friday";
         switch(day){
             case "Sunday": System.out.println("It is Sunday");
@@ -21,6 +21,5 @@ public class Switches {
             default: System.out.println("That is not a day!");
 
         }
-        
     }
 }
